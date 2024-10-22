@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "node.lewdhutao.my.eu.org",
-        port: 80,
-        password: "youshallnotpass",
+        host: "nodev3.fypmoon.org",
+        port: 1164,
+        password: "fypmoon.org",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
